@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jatinkaushik052/jatinkaushik052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Jatin Kaushik
 
-Here are some ideas to get you started:
+### Frontend Developer | React | Angular | React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Frontend Developer with 2+ years of experience building modern web applications using React and Angular.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 💼 Frontend Developer with 2+ Years of Experience
+* ⚛️ Working with React & Angular
+* 📱 Learning React Native
+* 🌱 Currently Learning Node.js
+* 🎯 Goal: Become a Full Stack Developer
+* 💬 Ask me about React, Angular, JavaScript & TypeScript
+
+---
