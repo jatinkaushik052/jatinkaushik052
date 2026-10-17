@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Jatin Kaushik
 
-### Frontend Developer | React | Angular | React Native | NodeJs
+### Frontend Developer | React | Angular | React Native | Python
 
-I'm a passionate Frontend Developer with 2+ years of experience building modern web applications using React and Angular.
+I'm a passionate Frontend Developer with 2+ years of experience building modern web applications and Mobile App using React, React Native and Angular.
 
 </div>
 
@@ -15,8 +15,8 @@ I'm a passionate Frontend Developer with 2+ years of experience building modern 
 * 💼 Frontend Developer with 2+ Years of Experience
 * ⚛️ Working with React & Angular
 * 📱 Learning React Native
-* 🌱 Currently Learning Node.js
+* 🌱 Currently Learning Pyhon
 * 🎯 Goal: Become a Full Stack Developer
-* 💬 Ask me about React, Angular, JavaScript & TypeScript
+* 💬 Ask me about React, Angular,React Native, JavaScript & TypeScript
 
 ---
